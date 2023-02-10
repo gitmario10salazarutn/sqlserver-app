@@ -1,0 +1,11 @@
+.env
+mypimes
+new
+.vscode/
+src/database/__pycache__/__init__.cpython-39.pyc
+src/tests/__pycache__/
+src/database/__pycache__/connectdb.cpython-39.pyc
+src/models/__pycache__/Models.cpython-39.pyc
+src/models/__pycache__/__init__.cpython-39.pyc
+src/models/entities/__pycache__/Entities.cpython-39.pyc
+src/models/entities/__pycache__/__init__.cpython-39.pyc
